@@ -1,6 +1,6 @@
 #OGINT
 
-Google Chrome by default doesn't allow any type of UI in full screen mode. That means the search bar in the default new tab page won't work. Customizing new tab page is a pain. OGINT is a chrome extension that resolves this issue.
+Google Chrome by default doesn't allow any type of UI in full screen mode. That means the search bar in the default new tab page won't work. Customizing new tab page is a pain. Therefore you need to exit full screen mode to type a URL in new tab. OGINT is a chrome extension that resolves this issue.
 
 
 ###Step 1:
